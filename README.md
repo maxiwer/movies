@@ -123,6 +123,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [V for Vendetta](https://letterboxd.com/film/v-for-vendetta/)
 - [Warrior](https://letterboxd.com/film/warrior/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
+- [Seven Samurai](https://letterboxd.com/film/seven-samurai/)
 
 ## Scifi
 
